@@ -1,4 +1,4 @@
-<img src="https://https://wiki.antwons.com/antwons_cirlce_logo_bigger-1_(3).png">
+<img src="https://github.com/mrspongie21/mrspongie21/blob/main/antwons_cirlce_logo_bigger-1_(3).png?raw=true">
 
 ### Hi, I'm Mr. Spongie! 
 
