@@ -6,7 +6,6 @@
 
 - I am currently an AWS & Azure cloud engineer student! 
 - I'm already a certified GCP cloud engineer. 
-- I do not work in I.T. however, I am in the Solar Operations industry. 
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
