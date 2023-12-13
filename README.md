@@ -1,5 +1,4 @@
-<img src="https://github.com/mrspongie21/mrspongie21/blob/main/long%20logo%20%20copy2-1.png?raw=true">
-
+<img src="https://github.com/antwons/antwons/blob/main/Resources/Photos/FullLogo_Transparent_NoBuffer.png"\>
 ### Hi, I'm Mr. Spongie! 
 
 ---
