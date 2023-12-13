@@ -1,4 +1,4 @@
-<img src="https://github.com/antwons/antwons/blob/main/Resources/Photos/FullLogo_Transparent_NoBuffer.png"> 
+<img src="https://github.com/antwons/antwons/blob/main/Resources/Photos/design-0471ad3f-30dd-4638-abad-fbc12c880f38%20(1).png"> 
 
 ### Hello, My name is Anthony & welcome to my GitHub!
 ---
