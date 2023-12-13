@@ -1,4 +1,4 @@
-<img src="https://github.com/antwons/antwons/blob/main/Resources/Photos/FullLogo_Transparent_NoBuffer.png"\>
+<img src="https://github.com/antwons/antwons/blob/main/Resources/Photos/FullLogo_Transparent_NoBuffer.png">
 ### Hi, I'm Mr. Spongie! 
 
 ---
