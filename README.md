@@ -15,8 +15,10 @@
 > ### Here are a few links that you can check out. As more and more projects get completed, I will add more to this list!
 >
 > - [Antwon's Knowledge Base](https://wiki.antwons.com)
->   > This is a knowledge base website that I use to host all of my step-by-step guides! 
+>   > This is a knowledge base website that I use to host all of my step-by-step guides!
 >
 > ### Here are some quick links to current projects in GitHub!
 > 
 > - [Docker Install Script](https://github.com/antwons/Docker-Install)
+>
+> - [Matrix Install Script](https://github.com/antwons/matrix-install)
