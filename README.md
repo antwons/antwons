@@ -1,6 +1,5 @@
 <img src="https://github.com/antwons/antwons/blob/main/Resources/Photos/design-0471ad3f-30dd-4638-abad-fbc12c880f38%20(1).png"> 
 
----
 ## *What is this?* 
 > Well, this is my Github profile! Here I will post several projects that I am working at for work, school and home. If you see any projects that you like, feel free to check them out. Just don't forget to star them!
 
