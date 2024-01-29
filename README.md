@@ -20,3 +20,5 @@
 > - [Docker Install Script](https://github.com/antwons/Docker-Install)
 >
 > - [Matrix Install Script](https://github.com/antwons/matrix-install)
+>
+> - [Plex Installer](https://github.com/antwons/plex-installer)
