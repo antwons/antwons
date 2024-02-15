@@ -17,8 +17,8 @@
 >
 > ### Here are some quick links to current projects in GitHub!
 > 
-> - [Docker Install Script](https://github.com/antwons/Docker-Install)
+> - [Docker Installer](https://github.com/antwons/Docker-Install)
 >
-> - [Matrix Install Script](https://github.com/antwons/matrix-install)
+> - [Matrix Installer](https://github.com/antwons/matrix-install)
 >
 > - [Plex Installer](https://github.com/antwons/plex-installer)
